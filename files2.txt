@@ -1,0 +1,9 @@
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10000032/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10000764/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10000898/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10000935/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10000980/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10001038/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10001122/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10001176/
+https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/p10001217/

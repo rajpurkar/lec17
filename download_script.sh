@@ -1,4 +1,6 @@
 # loop over all lines in file files.txt
+touch files2.txt
+
 while read line; do
     # download file
     echo https://physionet.org/files/mimic-cxr-jpg/2.0.0/files/p10/$line/ >> files2.txt
